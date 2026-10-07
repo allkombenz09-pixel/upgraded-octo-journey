@@ -1,0 +1,2194 @@
+{
+ "id": "01-ikea",
+ "title": "How They Built IKEA",
+ "style_tail": "flat 2D editorial illustration, muted warm palette of navy, cream, mustard and terracotta, subtle paper grain, clean shapes, cinematic composition, horizontal 16:9, no text, no logos",
+ "kling_prompt": "slow subtle camera push-in, gentle natural movement, keep the illustration style, no morphing, no text",
+ "scratch_voice": {
+  "voice": "af_heart",
+  "speed": 0.95
+ },
+ "parts": [
+  {
+   "id": "part1",
+   "title_ru": "Часть 1 — хук, детство и рождение IKEA",
+   "beats": [
+    {
+     "id": "p1b01",
+     "text": "A young man is trying to squeeze a little table into his small car... and it just won't go in.",
+     "chapter": "The Table That Wouldn't Fit"
+    },
+    {
+     "id": "p1b02",
+     "text": "So he does something simple. He takes the legs off."
+    },
+    {
+     "id": "p1b03",
+     "text": "That small, frustrated moment would shape the business model of a brand whose stores now sell more than forty-four billion euros of home furnishings a year."
+    },
+    {
+     "id": "p1b04",
+     "text": "But this story starts long before that table... with a farm boy selling matches. So how does a kid on a bicycle build all this?"
+    },
+    {
+     "id": "p1b05",
+     "text": "This is How They Built It. I'm Mila Sterling... and today, we're telling the story of IKEA."
+    },
+    {
+     "id": "p1b06",
+     "text": "Sweden, the nineteen-thirties. On a farm called Elmtaryd, near the village of Agunnaryd, lives a boy named Ingvar Kamprad.",
+     "chapter": "A Boy Who Loved to Sell"
+    },
+    {
+     "id": "p1b07",
+     "text": "This is Smaland. Stony, poor land... so poor that whole villages left for America. The Kamprad farm is big, mostly forest... yet money is tight."
+    },
+    {
+     "id": "p1b09",
+     "text": "But Ingvar has a talent the farm can't teach... he loves to sell."
+    },
+    {
+     "id": "p1b10",
+     "text": "In 1931, at just five years old, he starts selling matches to the neighbors."
+    },
+    {
+     "id": "p1b11",
+     "text": "Then his aunt in Stockholm helps with a trick. She buys matches in bulk, at a wholesale price... and posts them to him."
+    },
+    {
+     "id": "p1b12",
+     "text": "Ingvar sells them one box at a time, at a low price... and still makes a profit. At five."
+    },
+    {
+     "id": "p1b13",
+     "text": "Soon he's selling fish he caught himself... then Christmas decorations, seeds and pencils, from his bicycle, farm to farm."
+    },
+    {
+     "id": "p1b15",
+     "text": "Buy cheap, sell cheap... and still make money. Remember that. One day, it's going to save his company."
+    },
+    {
+     "id": "p1b16",
+     "text": "In 1943, at just seventeen, Ingvar registers his own company. But he's still a minor... so he needs a signature."
+    },
+    {
+     "id": "p1b17",
+     "text": "He cycles to his guardian, a man he calls uncle Ernst. Ernst can't see why a boy needs a company... but he signs."
+    },
+    {
+     "id": "p1b18",
+     "text": "Now he needs a name, so he uses his initials. I and K, for Ingvar Kamprad. E, for Elmtaryd, the farm. And the letter A... for Agunnaryd, the village."
+    },
+    {
+     "id": "p1b19",
+     "text": "IKEA."
+    },
+    {
+     "id": "p1b20",
+     "text": "There's just one strange thing. For its first five years... this company won't sell a single piece of furniture."
+    }
+   ]
+  },
+  {
+   "id": "part2",
+   "title_ru": "Часть 2 — почта, шоурум и плоская упаковка",
+   "beats": [
+    {
+     "id": "p2b01",
+     "text": "Instead, IKEA starts as a mail-order business, run from the family farm.",
+     "chapter": "From Pens to Furniture"
+    },
+    {
+     "id": "p2b02",
+     "text": "Pens, wallets, picture frames, watches, nylon stockings... whatever people need, at a low price."
+    },
+    {
+     "id": "p2b03",
+     "text": "And delivery? Every morning, the milk lorry that collects the farm's milk takes Ingvar's parcels too."
+    },
+    {
+     "id": "p2b04",
+     "text": "Milk churns and IKEA parcels on the same truck... until there are so many that the dairy says no more."
+    },
+    {
+     "id": "p2b05",
+     "text": "Then, in 1948, he adds a few easy chairs and tables, made cheaply by small workshops in Smaland's forests... and they sell."
+    },
+    {
+     "id": "p2b06",
+     "text": "In 1951, the first IKEA catalogue goes out... two hundred and eighty-five thousand copies, across southern Sweden."
+    },
+    {
+     "id": "p2b07",
+     "text": "A year later, he goes all in. From now on, IKEA will sell only furniture and home furnishings."
+    },
+    {
+     "id": "p2b08",
+     "text": "But there's a problem. Customers buy by mail... they can't see or touch what they're paying for.",
+     "chapter": "The Showroom Gamble"
+    },
+    {
+     "id": "p2b09",
+     "text": "And IKEA is stuck in a price war with rival mail-order firms. Every cut is answered with a deeper one... and quality starts to slip."
+    },
+    {
+     "id": "p2b10",
+     "text": "Customers start to doubt that anything this cheap can be any good."
+    },
+    {
+     "id": "p2b11",
+     "text": "Ingvar has a choice. Keep cutting... or find another way."
+    },
+    {
+     "id": "p2b12",
+     "text": "In 1953, he turns an old carpentry factory in the small town of Almhult into a showroom."
+    },
+    {
+     "id": "p2b13",
+     "text": "For the first time, customers can sit on the chairs, open the drawers... and compare quality and price with their own eyes."
+    },
+    {
+     "id": "p2b14",
+     "text": "People come from all over Sweden to see it. Trust is back. But moving bulky furniture is still expensive... and that's where our table returns."
+    },
+    {
+     "id": "p2b15",
+     "text": "IKEA's catalogue photographer is a young man named Gillis Lundgren... the company's fourth employee.",
+     "chapter": "Flat-Pack Is Born"
+    },
+    {
+     "id": "p2b16",
+     "text": "He's trying to get a little leaf-shaped table called Lövet into his small car, for a catalogue photo shoot. It won't fit."
+    },
+    {
+     "id": "p2b17",
+     "text": "So he takes the legs off... and lays them flat under the tabletop."
+    },
+    {
+     "id": "p2b18",
+     "text": "To be fair... IKEA didn't invent flat-pack. Chairs were shipped flat back in the eighteen-hundreds."
+    },
+    {
+     "id": "p2b19",
+     "text": "But this is the moment it stopped being a trick... and became the whole business model."
+    },
+    {
+     "id": "p2b20",
+     "text": "Flat furniture takes far less space in trucks and warehouses. It's cheaper to ship... cheaper to store... and later, customers carry it home themselves."
+    },
+    {
+     "id": "p2b21",
+     "text": "Or, as people at IKEA like to put it... there's no point in shipping air."
+    },
+    {
+     "id": "p3b01",
+     "text": "In 1958, the first IKEA store opens in Almhult. At the time, it's billed as the biggest furniture showroom in Scandinavia."
+    },
+    {
+     "id": "p3b02",
+     "text": "In one corner, there's a little coffee stand. Two years later, it's a real restaurant... the start of a food business that will one day sell meatballs worldwide."
+    },
+    {
+     "id": "p2b22",
+     "text": "Lower costs mean lower prices. And low prices have been making IKEA some powerful enemies."
+    }
+   ]
+  },
+  {
+   "id": "part3",
+   "title_ru": "Часть 3 — бойкот, рост, тёмная сторона и финал",
+   "beats": [
+    {
+     "id": "p3b03",
+     "text": "In fact, IKEA has been making enemies for years. Sweden's furniture retailers are furious about its low prices.",
+     "chapter": "Enemies and a Boycott"
+    },
+    {
+     "id": "p3b04",
+     "text": "They get IKEA banned from a Stockholm trade fair... and they warn suppliers: sell to Ingvar, and we stop buying from you."
+    },
+    {
+     "id": "p3b05",
+     "text": "So Ingvar gets creative. Some suppliers quietly sell to him under other names."
+    },
+    {
+     "id": "p3b06",
+     "text": "But the boycott bites. By 1961, IKEA simply can't get enough furniture from Swedish factories."
+    },
+    {
+     "id": "p3b07",
+     "text": "So in January 1961, Ingvar travels to communist Poland... and starts ordering furniture from Polish factories, where costs are far lower."
+    },
+    {
+     "id": "p3b08",
+     "text": "Buy cheap, sell cheap. The farm boy's trick, all over again. The boycott that was meant to kill IKEA... ends up making it even cheaper."
+    },
+    {
+     "id": "p3b09",
+     "text": "In 1963, IKEA opens its first store outside Sweden, near Oslo, in Norway. Then Denmark.",
+     "chapter": "Going Global"
+    },
+    {
+     "id": "p3b10",
+     "text": "In 1973, Switzerland, the first IKEA outside Scandinavia. Then Germany, which becomes its biggest market. And then, the world."
+    },
+    {
+     "id": "p3b11",
+     "text": "At the end of the seventies, Gillis Lundgren, the man who took the legs off that table, sketches a bookcase on a paper napkin. It's called Billy."
+    },
+    {
+     "id": "p3b12",
+     "text": "It becomes one of the best-selling pieces of furniture ever made. More than a hundred and twenty million sold, by IKEA's own count."
+    },
+    {
+     "id": "p3b13",
+     "text": "Today, IKEA has around five hundred big stores, and hundreds of smaller ones... with more than nine hundred million visits a year."
+    },
+    {
+     "id": "p3b14",
+     "text": "But the story isn't spotless.",
+     "chapter": "The Dark Side"
+    },
+    {
+     "id": "p3b15",
+     "text": "In the seventies and eighties, political prisoners in East Germany worked in factories making furniture and parts for IKEA."
+    },
+    {
+     "id": "p3b16",
+     "text": "In 2012, after an independent investigation, IKEA admitted it... and that some of its staff were aware prisoners might be used. It said it deeply regretted it."
+    },
+    {
+     "id": "p3b17",
+     "text": "In 2024, IKEA Germany pledged six million euros to a German fund for victims of the East German regime."
+    },
+    {
+     "id": "p3b18",
+     "text": "Environmental group Earthsight has also alleged that wood from illegal logging in Ukraine and Siberia ended up in IKEA products. IKEA said its wood was legal... but stopped buying from some suppliers."
+    },
+    {
+     "id": "p3b19",
+     "text": "And its founder had a past of his own. As a young man, in and after wartime Sweden, Ingvar was involved with a pro-Nazi movement."
+    },
+    {
+     "id": "p3b20",
+     "text": "When it came out in 1994, he wrote to his staff that it was the greatest mistake of his life."
+    },
+    {
+     "id": "p3b21",
+     "text": "Ingvar Kamprad died in 2018, at ninety-one. A complicated man... and a famously frugal one. Often ranked among the richest people on the planet, he flew economy and drove the same old Volvo for years.",
+     "chapter": "The Lesson"
+    },
+    {
+     "id": "p3b22",
+     "text": "So, back to our question. How does a farm boy with a box of matches build all this?"
+    },
+    {
+     "id": "p3b23",
+     "text": "Not with one genius idea. With a boy who bought in bulk and sold cheap... a showroom people could touch... and a table without its legs."
+    },
+    {
+     "id": "p3b24",
+     "text": "Every time the world said no... the price war, the trade fair, the boycott... IKEA found a cheaper, simpler way."
+    },
+    {
+     "id": "p3b25",
+     "text": "And that's how they built IKEA."
+    },
+    {
+     "id": "p3b26",
+     "text": "Next time... another company that started with almost nothing. It's on your screen right now. And if you want every new story... subscribe. I'm Mila Sterling... see you in the next one."
+    }
+   ]
+  }
+ ],
+ "shots": [
+  {
+   "id": "01",
+   "kind": "image",
+   "beats": [
+    "p1b01"
+   ],
+   "prompt": "A young man with short dark-blond hair, rolled-up white shirtsleeves, brown trousers and braces, seen from behind, scratching his head beside a small rounded 1950s car on a Swedish country road, the open trunk with a small leaf-shaped wooden coffee table with three slim tapered legs jammed halfway in, its legs sticking out awkwardly, birch trees, soft afternoon light, man and car in the right half of the frame, flat 2D editorial illustration, muted warm palette of navy, cream, mustard and terracotta, subtle paper grain, clean shapes, cinematic composition, horizontal 16:9, no text, no logos",
+   "status": "edited",
+   "camera": "push-in",
+   "focus_x": 0.68,
+   "focus_y": 0.55,
+   "overlays": [
+    {
+     "type": "date",
+     "text": "mid-1950s"
+    },
+    {
+     "type": "place",
+     "text": "Sweden"
+    }
+   ],
+   "transition_in": "cut",
+   "kling": true,
+   "sfx": "country birds, a car door creak",
+   "notes_ru": "~9.6 с. Гиллис (в хуке без имени) — единое описание персонажа; стол LÖVET: лист-столешница и ТРИ ножки. Субъект справа — для кропа в Shorts. Kling: человек пытается затолкать стол."
+  },
+  {
+   "id": "02",
+   "kind": "image",
+   "beats": [
+    "p1b02"
+   ],
+   "prompt": "Close-up of a young man's hands in rolled-up white shirtsleeves unscrewing one slim tapered leg from a small leaf-shaped wooden coffee table turned upside down on the grass beside a small 1950s car, a screwdriver, the other legs already lying flat, centered composition, flat 2D editorial illustration, muted warm palette of navy, cream, mustard and terracotta, subtle paper grain, clean shapes, cinematic composition, horizontal 16:9, no text, no logos",
+   "status": "edited",
+   "camera": "static",
+   "focus_x": 0.5,
+   "focus_y": 0.5,
+   "overlays": [],
+   "transition_in": "cut",
+   "kling": false,
+   "sfx": "screwdriver squeak, wooden leg clunks onto grass",
+   "notes_ru": "~4.3 с. Было: верстак в мастерской. Теперь — у машины на обочине, та же сцена, что в 01; стол LÖVET с тремя ножками."
+  },
+  {
+   "id": "03",
+   "kind": "image",
+   "beats": [
+    "p1b03"
+   ],
+   "prompt": "A vast modern warehouse with endless tall shelves of plain unmarked brown flat cardboard boxes, no labels, no barcodes, no aisle numbers, a tiny plain forklift in the aisle, low camera angle, flat 2D editorial illustration, muted warm palette of navy, cream, mustard and terracotta, subtle paper grain, clean shapes, cinematic composition, horizontal 16:9, no text, no logos",
+   "status": "edited",
+   "camera": "pull-out",
+   "focus_x": 0.5,
+   "focus_y": 0.6,
+   "overlays": [
+    {
+     "type": "number",
+     "text": "€44B+",
+     "detail": "number value=€44B+ label=IKEA retail sales of home furnishings a year"
+    }
+   ],
+   "transition_in": "cut",
+   "kling": false,
+   "sfx": "distant forklift beep, warehouse hum",
+   "notes_ru": "~11.7 с. Отъезд, чтобы показать масштаб. Цифра €44B+ появляется на «forty-four billion euros». До загрузки сверить с отчётом за FY26."
+  },
+  {
+   "id": "41",
+   "kind": "image",
+   "beats": [
+    "p1b04"
+   ],
+   "prompt": "Extreme close-up in near darkness of a five-year-old thin boy with light-brown hair, flat cap and grey wool sweater striking a match, the small flame lighting his curious face with a warm glow, a plain matchbox in his other hand, face slightly right of center, deep navy shadows, flat 2D editorial illustration, muted warm palette of navy, cream, mustard and terracotta, subtle paper grain, clean shapes, cinematic composition, horizontal 16:9, no text, no logos",
+   "status": "new",
+   "camera": "push-in",
+   "focus_x": 0.58,
+   "focus_y": 0.45,
+   "overlays": [],
+   "transition_in": "cut",
+   "kling": true,
+   "sfx": "match strike and flare",
+   "notes_ru": "~10.9 с. Новый кадр к вопросу-хуку («мальчик со спичками»). Первое появление юного Ингвара: «a thin boy with light-brown hair, flat cap and grey wool sweater». Kling: мерцание огня."
+  },
+  {
+   "id": "05",
+   "kind": "image",
+   "beats": [
+    "p1b05"
+   ],
+   "prompt": "Illustrated portrait of the woman from the reference photo, same face, blue eyes, bob haircut, burgundy coat, waist-up, sitting in a cozy study with bookshelves of plain book spines and a warm lamp, looking at the viewer with a calm slight smile, positioned slightly right of center, flat 2D editorial illustration, muted warm palette of navy, cream, mustard and terracotta, subtle paper grain, clean shapes, cinematic composition, horizontal 16:9, no text, no logos",
+   "status": "edited",
+   "camera": "push-in",
+   "focus_x": 0.6,
+   "focus_y": 0.4,
+   "overlays": [
+    {
+     "type": "lower-third",
+     "text": "Mila Sterling",
+     "detail": "How They Built It"
+    },
+    {
+     "type": "title",
+     "text": "How They Built It",
+     "detail": "Episode 1 · IKEA"
+    }
+   ],
+   "transition_in": "whip",
+   "kling": false,
+   "sfx": "",
+   "notes_ru": "~7.4 с. ПРИЛОЖИТЬ референс-фото Mila. Изменён только хвост стиля (добавлено «cinematic composition») и «plain book spines», чтобы на корешках не было букв."
+  },
+  {
+   "id": "04",
+   "kind": "image",
+   "beats": [
+    "p1b06"
+   ],
+   "prompt": "A large red wooden farmhouse in southern Sweden in the 1930s, surrounded by dense pine and birch forest, stone fences, morning mist, a five-year-old thin boy with light-brown hair, flat cap and grey wool sweater standing small at the wooden farm gate in the left third of the frame, flat 2D editorial illustration, muted warm palette of navy, cream, mustard and terracotta, subtle paper grain, clean shapes, cinematic composition, horizontal 16:9, no text, no logos",
+   "status": "edited",
+   "camera": "drift",
+   "focus_x": 0.3,
+   "focus_y": 0.6,
+   "overlays": [
+    {
+     "type": "chapter",
+     "text": "A Boy Who Loved to Sell"
+    },
+    {
+     "type": "lower-third",
+     "text": "Ingvar Kamprad",
+     "detail": "role=founder of IKEA"
+    }
+   ],
+   "transition_in": "crossfade",
+   "kling": false,
+   "sfx": "morning birds, distant cowbell",
+   "notes_ru": "~8.3 с. Добавлен мальчик у калитки (на него ставим титр с именем) и «large farm, dense forest» — ферма большая. Kling с этого кадра снят: важнее движение в 28."
+  },
+  {
+   "id": "06",
+   "kind": "image",
+   "beats": [
+    "p1b07"
+   ],
+   "prompt": "Poor rocky farmland in Smaland, Sweden, small stony fields divided by grey stone walls, an old wooden barn and a red farmhouse in the middle distance, a vast dark pine forest stretching to the horizon behind them, overcast sky, 1930s, flat 2D editorial illustration, muted warm palette of navy, cream, mustard and terracotta, subtle paper grain, clean shapes, cinematic composition, horizontal 16:9, no text, no logos",
+   "status": "edited",
+   "camera": "pan-right",
+   "focus_x": 0.75,
+   "focus_y": 0.45,
+   "overlays": [
+    {
+     "type": "place",
+     "text": "Småland, Sweden"
+    }
+   ],
+   "transition_in": "cut",
+   "kling": false,
+   "sfx": "wind over stone fields, crows",
+   "notes_ru": "~14.4 с: держится дольше 12 с за счёт оверлея 80% и медленной панорамы. На p1b08 («big, mostly forest») панорама уходит на лес — поэтому в промпт добавлен лес до горизонта."
+  },
+  {
+   "id": "07",
+   "kind": "image",
+   "beats": [
+    "p1b09",
+    "p1b10"
+   ],
+   "prompt": "A five-year-old thin boy with light-brown hair, flat cap and grey wool sweater offering a small plain matchbox to an elderly woman at a farm gate, the boy on the left, the woman on the right, flat 2D editorial illustration, muted warm palette of navy, cream, mustard and terracotta, subtle paper grain, clean shapes, cinematic composition, horizontal 16:9, no text, no logos",
+   "status": "edited",
+   "camera": "push-in",
+   "focus_x": 0.35,
+   "focus_y": 0.5,
+   "overlays": [
+    {
+     "type": "date",
+     "text": "1931"
+    },
+    {
+     "type": "number",
+     "text": "age 5",
+     "detail": "number value=5 label=years old"
+    }
+   ],
+   "transition_in": "cut",
+   "kling": false,
+   "sfx": "gate latch click",
+   "notes_ru": "~11.8 с. Описание Ингвара — дословно как в 41. Коробок «plain», без этикетки."
+  },
+  {
+   "id": "08",
+   "kind": "image",
+   "beats": [
+    "p1b11"
+   ],
+   "prompt": "A kind middle-aged woman in a 1930s coat and hat at a city post office counter, wrapping a brown paper parcel tied with string, a wooden crate full of plain unlabeled matchboxes beside her, tall stone city buildings visible through a big window, woman center-left, flat 2D editorial illustration, muted warm palette of navy, cream, mustard and terracotta, subtle paper grain, clean shapes, cinematic composition, horizontal 16:9, no text, no logos",
+   "status": "edited",
+   "camera": "pan-left",
+   "focus_x": 0.4,
+   "focus_y": 0.5,
+   "overlays": [
+    {
+     "type": "place",
+     "text": "Stockholm"
+    }
+   ],
+   "transition_in": "cut",
+   "kling": false,
+   "sfx": "string tied around paper, post office murmur",
+   "notes_ru": "~10 с. Было: оптовая лавка в Стокгольме. Теперь тётя покупает спички оптом и отправляет их посылкой — как в сценарии v2. Вывесок нет."
+  },
+  {
+   "id": "09",
+   "kind": "image",
+   "beats": [
+    "p1b12"
+   ],
+   "prompt": "A five-year-old thin boy with light-brown hair, flat cap and grey wool sweater counting a few coins on a wooden kitchen table next to neat stacks of plain matchboxes, oil lamp light, boy in the center, flat 2D editorial illustration, muted warm palette of navy, cream, mustard and terracotta, subtle paper grain, clean shapes, cinematic composition, horizontal 16:9, no text, no logos",
+   "status": "edited",
+   "camera": "push-in",
+   "focus_x": 0.5,
+   "focus_y": 0.55,
+   "overlays": [],
+   "transition_in": "cut",
+   "kling": false,
+   "sfx": "coins clinking on wood",
+   "notes_ru": "~8.3 с. Подставлено единое описание Ингвара (5 лет)."
+  },
+  {
+   "id": "11",
+   "kind": "image",
+   "beats": [
+    "p1b13"
+   ],
+   "prompt": "A ten-year-old thin boy with light-brown hair, flat cap and grey wool sweater at a snowy farmhouse door offering Christmas straw decorations and plain blank seed packets to a farmer's wife, a string of fresh fish hanging from the handlebars of his bicycle behind him, winter evening, warm doorway light, flat 2D editorial illustration, muted warm palette of navy, cream, mustard and terracotta, subtle paper grain, clean shapes, cinematic composition, horizontal 16:9, no text, no logos",
+   "status": "edited",
+   "camera": "drift",
+   "focus_x": 0.45,
+   "focus_y": 0.5,
+   "overlays": [],
+   "transition_in": "crossfade",
+   "kling": false,
+   "sfx": "footsteps in snow, door creak",
+   "notes_ru": "~8.3 с. Ставим ДО 10 (по тексту сначала рыба и украшения). Добавлены рыба на руле велосипеда и пустые пакетики семян, единое описание Ингвара (~10 лет)."
+  },
+  {
+   "id": "10",
+   "kind": "image",
+   "beats": [
+    "p1b15"
+   ],
+   "prompt": "A teenage thin boy with light-brown hair, flat cap and grey wool sweater riding a bicycle with a basket full of brown paper parcels down a dirt road between farms, side view, moving from left to right, fields and forest, flat 2D editorial illustration, muted warm palette of navy, cream, mustard and terracotta, subtle paper grain, clean shapes, cinematic composition, horizontal 16:9, no text, no logos",
+   "status": "edited",
+   "camera": "pan-right",
+   "focus_x": 0.6,
+   "focus_y": 0.55,
+   "overlays": [],
+   "transition_in": "cut",
+   "kling": true,
+   "sfx": "bicycle bell, gravel crunch",
+   "notes_ru": "~8.3 с. Перенесён на «Remember that... it's going to save his company» — мальчик уезжает вперёд, в будущее. Единое описание Ингвара (подросток). Kling: едет велосипед."
+  },
+  {
+   "id": "G02",
+   "kind": "graphic",
+   "beats": [
+    "p1b16"
+   ],
+   "prompt": "",
+   "status": "new",
+   "camera": "push-in",
+   "focus_x": 0.5,
+   "focus_y": 0.5,
+   "overlays": [
+    {
+     "type": "date",
+     "text": "1943",
+     "detail": "date label=Ingvar, age 17, registers his own company"
+    }
+   ],
+   "transition_in": "crossfade",
+   "kling": false,
+   "sfx": "rubber stamp thud",
+   "notes_ru": "~8.7 с. Карточка даты вместо отдельной картинки: экономит новый кадр."
+  },
+  {
+   "id": "12",
+   "kind": "image",
+   "beats": [
+    "p1b17"
+   ],
+   "prompt": "A farmhouse kitchen in the 1940s: an older farmer with a grey moustache and a waistcoat sitting at a wooden kitchen table, signing a single blank sheet of paper with an ink pen and looking doubtful, while a seventeen-year-old thin boy with light-brown hair, flat cap and grey wool sweater stands beside him waiting hopefully, a bicycle leaning against the fence outside the window, flat 2D editorial illustration, muted warm palette of navy, cream, mustard and terracotta, subtle paper grain, clean shapes, cinematic composition, horizontal 16:9, no text, no logos",
+   "status": "edited",
+   "camera": "push-in",
+   "focus_x": 0.45,
+   "focus_y": 0.55,
+   "overlays": [
+    {
+     "type": "lower-third",
+     "text": "Ernst Johansson",
+     "detail": "role=Ingvar's guardian, “uncle Ernst”"
+    }
+   ],
+   "transition_in": "cut",
+   "kling": false,
+   "sfx": "pen nib scratching paper",
+   "notes_ru": "~10 с. Было: офис и «official paper» (провоцирует текст). Теперь кухня опекуна, чистый лист, велосипед за окном («he cycles to his guardian»)."
+  },
+  {
+   "id": "G03",
+   "kind": "graphic",
+   "beats": [
+    "p1b18",
+    "p1b19"
+   ],
+   "prompt": "",
+   "status": "new",
+   "camera": "push-in",
+   "focus_x": 0.6,
+   "focus_y": 0.75,
+   "overlays": [
+    {
+     "type": "acronym",
+     "text": "IKEA",
+     "detail": "acronym I=Ingvar K=Kamprad E=Elmtaryd A=Agunnaryd"
+    }
+   ],
+   "transition_in": "cut",
+   "kling": false,
+   "sfx": "soft typewriter key per letter",
+   "notes_ru": "~12 с. Карта Швеции с наездом на Agunnaryd. Буквы появляются по одной под голос: I, K — Ingvar Kamprad; E — Elmtaryd; A — Agunnaryd. На «IKEA.» все четыре буквы собираются в слово."
+  },
+  {
+   "id": "42",
+   "kind": "image",
+   "beats": [
+    "p1b20"
+   ],
+   "prompt": "An empty wooden chair standing alone in the middle of a bare farmhouse room, a single beam of light from a small window falling on it, long shadow, quiet mysterious mood, chair slightly right of center, flat 2D editorial illustration, muted warm palette of navy, cream, mustard and terracotta, subtle paper grain, clean shapes, cinematic composition, horizontal 16:9, no text, no logos",
+   "status": "new",
+   "camera": "push-in",
+   "focus_x": 0.55,
+   "focus_y": 0.6,
+   "overlays": [],
+   "transition_in": "cut",
+   "kling": false,
+   "sfx": "floorboard creak",
+   "notes_ru": "~8.3 с. Новый кадр-тизер для «5 лет без мебели» в конце части 1."
+  },
+  {
+   "id": "43",
+   "kind": "image",
+   "beats": [
+    "p2b01"
+   ],
+   "prompt": "Inside a farmhouse kitchen in the 1940s, a slim young man with light-brown side-parted hair, grey wool sweater over a white collared shirt packing small goods into brown paper parcels tied with string, a growing pile of parcels and blank envelopes on the table, morning light, man center-left, flat 2D editorial illustration, muted warm palette of navy, cream, mustard and terracotta, subtle paper grain, clean shapes, cinematic composition, horizontal 16:9, no text, no logos",
+   "status": "new",
+   "camera": "drift",
+   "focus_x": 0.4,
+   "focus_y": 0.5,
+   "overlays": [
+    {
+     "type": "chapter",
+     "text": "From Pens to Furniture"
+    }
+   ],
+   "transition_in": "dip-to-black",
+   "kling": false,
+   "sfx": "paper rustle, string pulled tight",
+   "notes_ru": "~7.4 с. Новый кадр: торговля по почте прямо с фермы. Взрослый Ингвар описан один раз и дальше повторяется дословно: «a slim young man with light-brown side-parted hair, grey wool sweater over a white collared shirt»."
+  },
+  {
+   "id": "14",
+   "kind": "image",
+   "beats": [
+    "p2b02"
+   ],
+   "prompt": "Top-down flat lay of 1940s goods on a wooden table: fountain pens, leather wallets, empty picture frames, wristwatches, folded nylon stockings, flat 2D editorial illustration, muted warm palette of navy, cream, mustard and terracotta, subtle paper grain, clean shapes, cinematic composition, horizontal 16:9, no text, no logos",
+   "status": "edited",
+   "camera": "pan-right",
+   "focus_x": 0.7,
+   "focus_y": 0.5,
+   "overlays": [],
+   "transition_in": "cut",
+   "kling": false,
+   "sfx": "",
+   "notes_ru": "~6.1 с. Добавлены нейлоновые чулки (есть в тексте), рамки сделаны пустыми, в хвост добавлено «cinematic composition»."
+  },
+  {
+   "id": "13",
+   "kind": "image",
+   "beats": [
+    "p2b03"
+   ],
+   "prompt": "Early morning at a Swedish farm gate in the 1940s: an old milk lorry stopped by a wooden milk-churn stand, the driver lifting metal milk churns onto the flatbed next to a few brown paper parcels tied with string, mist over the fields, lorry in the center, side view, flat 2D editorial illustration, muted warm palette of navy, cream, mustard and terracotta, subtle paper grain, clean shapes, cinematic composition, horizontal 16:9, no text, no logos",
+   "status": "edited",
+   "camera": "static",
+   "focus_x": 0.5,
+   "focus_y": 0.55,
+   "overlays": [],
+   "transition_in": "cut",
+   "kling": true,
+   "sfx": "metal milk churns clanking, idling engine",
+   "notes_ru": "~7 с. Было: почтальон на велосипеде. Теперь молоковоз с бидонами и посылками. Kling: водитель грузит бидоны."
+  },
+  {
+   "id": "17",
+   "kind": "image",
+   "beats": [
+    "p2b04"
+   ],
+   "prompt": "An old 1940s milk lorry comically overloaded, metal milk churns buried under a towering pile of brown paper parcels, a dairy worker in overalls standing in front with his hand raised to say no more, country road, flat 2D editorial illustration, muted warm palette of navy, cream, mustard and terracotta, subtle paper grain, clean shapes, cinematic composition, horizontal 16:9, no text, no logos",
+   "status": "edited",
+   "camera": "tilt-up",
+   "focus_x": 0.5,
+   "focus_y": 0.25,
+   "overlays": [],
+   "transition_in": "cut",
+   "kling": false,
+   "sfx": "parcels thump, creaking suspension",
+   "notes_ru": "~8.7 с. Было: грузовик с мебелью. Перерисован под «the dairy says no more»: камера едет вверх по горе посылок."
+  },
+  {
+   "id": "15",
+   "kind": "image",
+   "beats": [
+    "p2b05"
+   ],
+   "prompt": "A craftsman building a wooden chair in a small workshop in a Swedish pine forest, wood shavings, sunlight through trees, flat 2D editorial illustration, muted warm palette of navy, cream, mustard and terracotta, subtle paper grain, clean shapes, cinematic composition, horizontal 16:9, no text, no logos",
+   "status": "unchanged",
+   "camera": "push-in",
+   "focus_x": 0.45,
+   "focus_y": 0.5,
+   "overlays": [
+    {
+     "type": "date",
+     "text": "1948"
+    }
+   ],
+   "transition_in": "crossfade",
+   "kling": false,
+   "sfx": "hand plane on wood",
+   "notes_ru": "~9.6 с."
+  },
+  {
+   "id": "44",
+   "kind": "image",
+   "beats": [
+    "p2b06"
+   ],
+   "prompt": "A 1950s printing hall seen from a distance, a large dark printing press, long wooden tables piled with tall stacks of identical closed catalogues with plain solid mustard covers, workers tying the bundles with string for the post, all paper shown as clean blank shapes, warm light through high windows, flat 2D editorial illustration, muted warm palette of navy, cream, mustard and terracotta, subtle paper grain, clean shapes, cinematic composition, horizontal 16:9, no text, no logos",
+   "status": "new",
+   "camera": "pull-out",
+   "focus_x": 0.5,
+   "focus_y": 0.5,
+   "overlays": [
+    {
+     "type": "date",
+     "text": "1951"
+    },
+    {
+     "type": "number",
+     "text": "285,000",
+     "detail": "number value=285,000 label=copies of the first IKEA catalogue"
+    }
+   ],
+   "transition_in": "crossfade",
+   "kling": false,
+   "sfx": "printing press rhythm",
+   "notes_ru": "~7.4 с. Новый кадр под тираж 285 тыс.: отъезд показывает горы каталогов. Обложки пустые."
+  },
+  {
+   "id": "45",
+   "kind": "image",
+   "beats": [
+    "p2b07"
+   ],
+   "prompt": "A slim young man with light-brown side-parted hair, grey wool sweater over a white collared shirt standing with rolled-up sleeves in a large wooden barn turned into a storeroom, now filled only with chairs, tables, armchairs and lamps, a few boxes of small goods pushed aside, determined look, man left of center, early 1950s, flat 2D editorial illustration, muted warm palette of navy, cream, mustard and terracotta, subtle paper grain, clean shapes, cinematic composition, horizontal 16:9, no text, no logos",
+   "status": "new",
+   "camera": "push-in",
+   "focus_x": 0.38,
+   "focus_y": 0.45,
+   "overlays": [],
+   "transition_in": "cut",
+   "kling": false,
+   "sfx": "barn door rolling open",
+   "notes_ru": "~7.8 с. Новый кадр: «goes all in» — только мебель. Описание взрослого Ингвара как в 43."
+  },
+  {
+   "id": "16",
+   "kind": "image",
+   "beats": [
+    "p2b08"
+   ],
+   "prompt": "A 1950s family at the kitchen table around a thick closed furniture catalogue with a plain solid cover, the father frowning uncertainly and pressing his palm flat on the cover as if trying to feel a chair through it, the mother and a child watching, flat 2D editorial illustration, muted warm palette of navy, cream, mustard and terracotta, subtle paper grain, clean shapes, cinematic composition, horizontal 16:9, no text, no logos",
+   "status": "edited",
+   "camera": "push-in",
+   "focus_x": 0.5,
+   "focus_y": 0.55,
+   "overlays": [
+    {
+     "type": "chapter",
+     "text": "The Showroom Gamble"
+    }
+   ],
+   "transition_in": "cut",
+   "kling": false,
+   "sfx": "page turn",
+   "notes_ru": "~7.4 с. Перенесён на «can't see or touch»: отец трогает плоскую страницу. Обложка и страницы пустые, без текста."
+  },
+  {
+   "id": "18",
+   "kind": "image",
+   "beats": [
+    "p2b09"
+   ],
+   "prompt": "Two rival businessmen in 1950s suits in a side-by-side split scene, each sawing a piece off his own wooden chair to make it smaller and cheaper while glaring at the other, wood shavings on the floor, flat 2D editorial illustration, muted warm palette of navy, cream, mustard and terracotta, subtle paper grain, clean shapes, cinematic composition, horizontal 16:9, no text, no logos",
+   "status": "edited",
+   "camera": "pan-left",
+   "focus_x": 0.3,
+   "focus_y": 0.5,
+   "overlays": [],
+   "transition_in": "cut",
+   "kling": false,
+   "sfx": "handsaw strokes",
+   "notes_ru": "~10.9 с. Было: ценники в витринах (модель рисует цифры). Теперь метафора: оба отпиливают куски от своих стульев — снижают цену и качество."
+  },
+  {
+   "id": "19",
+   "kind": "image",
+   "beats": [
+    "p2b10",
+    "p2b11"
+   ],
+   "prompt": "A cheap wooden chair with a cracked wobbly leg, a disappointed customer looking at it, flat 2D editorial illustration, muted warm palette of navy, cream, mustard and terracotta, subtle paper grain, clean shapes, cinematic composition, horizontal 16:9, no text, no logos",
+   "status": "unchanged",
+   "camera": "push-in",
+   "focus_x": 0.45,
+   "focus_y": 0.65,
+   "overlays": [],
+   "transition_in": "cut",
+   "kling": false,
+   "sfx": "wood crack",
+   "notes_ru": "~9.5 с. Наезд на треснувшую ножку на «Keep cutting... or find another way»."
+  },
+  {
+   "id": "21",
+   "kind": "image",
+   "beats": [
+    "p2b12"
+   ],
+   "prompt": "An old two-storey wooden carpentry factory building with large windows in a small Swedish town, freshly painted and reopened as a furniture showroom, the first visitors arriving by old cars and a bus, 1950s, plain facade without any signs, flat 2D editorial illustration, muted warm palette of navy, cream, mustard and terracotta, subtle paper grain, clean shapes, cinematic composition, horizontal 16:9, no text, no logos",
+   "status": "edited",
+   "camera": "pull-out",
+   "focus_x": 0.5,
+   "focus_y": 0.45,
+   "overlays": [
+    {
+     "type": "date",
+     "text": "1953"
+    },
+    {
+     "type": "place",
+     "text": "Älmhult"
+    }
+   ],
+   "transition_in": "crossfade",
+   "kling": false,
+   "sfx": "car doors, light crowd murmur",
+   "notes_ru": "~7.4 с. Здание — старая столярная фабрика (как в v2), фасад без вывесок."
+  },
+  {
+   "id": "20",
+   "kind": "image",
+   "beats": [
+    "p2b13"
+   ],
+   "prompt": "Interior of an old timber factory hall with wooden beams turned into a 1950s furniture showroom, visitors sitting on sofas, opening drawers and testing chairs, warm daylight, flat 2D editorial illustration, muted warm palette of navy, cream, mustard and terracotta, subtle paper grain, clean shapes, cinematic composition, horizontal 16:9, no text, no logos",
+   "status": "edited",
+   "camera": "pan-right",
+   "focus_x": 0.65,
+   "focus_y": 0.55,
+   "overlays": [],
+   "transition_in": "cut",
+   "kling": false,
+   "sfx": "drawer sliding, crowd murmur",
+   "notes_ru": "~9.6 с. Интерьер перенесён в цех старой фабрики (деревянные балки)."
+  },
+  {
+   "id": "G04",
+   "kind": "graphic",
+   "beats": [
+    "p2b14"
+   ],
+   "prompt": "",
+   "status": "new",
+   "camera": "static",
+   "focus_x": 0.4,
+   "focus_y": 0.75,
+   "overlays": [
+    {
+     "type": "map",
+     "text": "From all over Sweden",
+     "detail": "map region=sweden pins=Almhult,Stockholm route=Stockholm>Almhult"
+    }
+   ],
+   "transition_in": "cut",
+   "kling": false,
+   "sfx": "",
+   "notes_ru": "~5 с, первая половина бита («People come from all over Sweden... Trust is back»). Несколько линий-маршрутов сходятся в Älmhult."
+  },
+  {
+   "id": "25a",
+   "kind": "image",
+   "beats": [
+    "p2b14"
+   ],
+   "prompt": "A 1950s delivery truck with open back doors, side view, half-empty, a few bulky assembled sofas and wardrobes inside with lots of wasted empty space around them, flat 2D editorial illustration, muted warm palette of navy, cream, mustard and terracotta, subtle paper grain, clean shapes, cinematic composition, horizontal 16:9, no text, no logos",
+   "status": "edited",
+   "camera": "push-in",
+   "focus_x": 0.6,
+   "focus_y": 0.5,
+   "overlays": [],
+   "transition_in": "cut",
+   "kling": false,
+   "sfx": "truck door clank",
+   "notes_ru": "~6 с, вторая половина p2b14 («bulky furniture is still expensive»). Теперь отдельный полный промпт, в хвост добавлено «cinematic composition». Это «до», к нему рифмуется 25b."
+  },
+  {
+   "id": "22",
+   "kind": "image",
+   "beats": [
+    "p2b15"
+   ],
+   "prompt": "A 1950s catalogue photo shoot in a small studio: a young man with short dark-blond hair, rolled-up white shirtsleeves, brown trousers and braces behind a large wooden camera on a tripod, studio lights, a small leaf-shaped wooden coffee table with three slim tapered legs on set, photographer on the left, table on the right, flat 2D editorial illustration, muted warm palette of navy, cream, mustard and terracotta, subtle paper grain, clean shapes, cinematic composition, horizontal 16:9, no text, no logos",
+   "status": "edited",
+   "camera": "pan-right",
+   "focus_x": 0.35,
+   "focus_y": 0.5,
+   "overlays": [
+    {
+     "type": "chapter",
+     "text": "Flat-Pack Is Born"
+    },
+    {
+     "type": "lower-third",
+     "text": "Gillis Lundgren",
+     "detail": "role=IKEA's fourth employee, catalogue photographer"
+    }
+   ],
+   "transition_in": "cut",
+   "kling": false,
+   "sfx": "camera shutter, flash pop",
+   "notes_ru": "~6.1 с. Фотограф — это Гиллис (единое описание), на съёмочной площадке LÖVET."
+  },
+  {
+   "id": "01",
+   "kind": "image",
+   "beats": [
+    "p2b16"
+   ],
+   "prompt": "A young man with short dark-blond hair, rolled-up white shirtsleeves, brown trousers and braces, seen from behind, scratching his head beside a small rounded 1950s car on a Swedish country road, the open trunk with a small leaf-shaped wooden coffee table with three slim tapered legs jammed halfway in, its legs sticking out awkwardly, birch trees, soft afternoon light, man and car in the right half of the frame, flat 2D editorial illustration, muted warm palette of navy, cream, mustard and terracotta, subtle paper grain, clean shapes, cinematic composition, horizontal 16:9, no text, no logos",
+   "status": "edited",
+   "camera": "push-in",
+   "focus_x": 0.68,
+   "focus_y": 0.55,
+   "overlays": [],
+   "transition_in": "crossfade",
+   "kling": true,
+   "sfx": "country birds, a car door creak",
+   "notes_ru": "~9.6 с. Гиллис (в хуке без имени) — единое описание персонажа; стол LÖVET: лист-столешница и ТРИ ножки. Субъект справа — для кропа в Shorts. Kling: человек пытается затолкать стол.",
+   "reuse": true
+  },
+  {
+   "id": "02",
+   "kind": "image",
+   "beats": [
+    "p2b17"
+   ],
+   "prompt": "Close-up of a young man's hands in rolled-up white shirtsleeves unscrewing one slim tapered leg from a small leaf-shaped wooden coffee table turned upside down on the grass beside a small 1950s car, a screwdriver, the other legs already lying flat, centered composition, flat 2D editorial illustration, muted warm palette of navy, cream, mustard and terracotta, subtle paper grain, clean shapes, cinematic composition, horizontal 16:9, no text, no logos",
+   "status": "edited",
+   "camera": "static",
+   "focus_x": 0.5,
+   "focus_y": 0.5,
+   "overlays": [],
+   "transition_in": "crossfade",
+   "kling": false,
+   "sfx": "screwdriver squeak, wooden leg clunks onto grass",
+   "notes_ru": "~4.3 с. Было: верстак в мастерской. Теперь — у машины на обочине, та же сцена, что в 01; стол LÖVET с тремя ножками.",
+   "reuse": true
+  },
+  {
+   "id": "46",
+   "kind": "image",
+   "beats": [
+    "p2b18"
+   ],
+   "prompt": "A busy nineteenth-century harbour dock, workers loading open wooden crates of flat-packed bentwood chair parts, chair seats and curved legs stacked flat, a steamship in the background, flat 2D editorial illustration, muted warm palette of navy, cream, mustard and terracotta, subtle paper grain, clean shapes, cinematic composition, horizontal 16:9, no text, no logos",
+   "status": "new",
+   "camera": "pan-left",
+   "focus_x": 0.35,
+   "focus_y": 0.55,
+   "overlays": [],
+   "transition_in": "crossfade",
+   "kling": false,
+   "sfx": "harbour gulls, crate lid",
+   "notes_ru": "~6.5 с. Новый кадр для честной оговорки: «IKEA didn't invent flat-pack»."
+  },
+  {
+   "id": "47",
+   "kind": "image",
+   "beats": [
+    "p2b19"
+   ],
+   "prompt": "Close-up of a young man's hands in rolled-up white shirtsleeves closing a flat cardboard box over a small leaf-shaped wooden tabletop and three slim tapered legs packed neatly inside, a roll of tape, workshop table, centered, flat 2D editorial illustration, muted warm palette of navy, cream, mustard and terracotta, subtle paper grain, clean shapes, cinematic composition, horizontal 16:9, no text, no logos",
+   "status": "new",
+   "camera": "push-in",
+   "focus_x": 0.5,
+   "focus_y": 0.5,
+   "overlays": [],
+   "transition_in": "crossfade",
+   "kling": false,
+   "sfx": "tape pulled across cardboard",
+   "notes_ru": "~7 с. Новый кадр: «трюк» становится бизнес-моделью — тот же стол уходит в плоскую коробку."
+  },
+  {
+   "id": "25b",
+   "kind": "image",
+   "beats": [
+    "p2b20"
+   ],
+   "prompt": "The same 1950s delivery truck from the same side view, open back doors, packed tightly from floor to ceiling with plain flat cardboard boxes, flat 2D editorial illustration, muted warm palette of navy, cream, mustard and terracotta, subtle paper grain, clean shapes, cinematic composition, horizontal 16:9, no text, no logos",
+   "status": "edited",
+   "camera": "pull-out",
+   "focus_x": 0.6,
+   "focus_y": 0.5,
+   "overlays": [],
+   "transition_in": "cut",
+   "kling": false,
+   "sfx": "boxes sliding into place",
+   "notes_ru": "~10.4 с. Первые 1–2 с — вытеснение шторкой 25a→25b (до/после), затем медленный отъезд. Отдельный полный промпт, ракурс тот же, что в 25a."
+  },
+  {
+   "id": "G05",
+   "kind": "graphic",
+   "beats": [
+    "p2b21"
+   ],
+   "prompt": "",
+   "status": "new",
+   "camera": "static",
+   "focus_x": 0.5,
+   "focus_y": 0.5,
+   "overlays": [
+    {
+     "type": "quote",
+     "text": "No point in shipping air.",
+     "detail": ""
+    }
+   ],
+   "transition_in": "cut",
+   "kling": false,
+   "sfx": "",
+   "notes_ru": "~5.2 с. Цитата-карточка. Её же можно взять в Short 1."
+  },
+  {
+   "id": "27",
+   "kind": "image",
+   "beats": [
+    "p3b01"
+   ],
+   "prompt": "Opening day of a large plain modern furniture store building in a small Swedish town in the late 1950s, a big crowd of families at the entrance, plain facade without any signs, flat 2D editorial illustration, muted warm palette of navy, cream, mustard and terracotta, subtle paper grain, clean shapes, cinematic composition, horizontal 16:9, no text, no logos",
+   "status": "edited",
+   "camera": "pull-out",
+   "focus_x": 0.5,
+   "focus_y": 0.5,
+   "overlays": [
+    {
+     "type": "date",
+     "text": "1958"
+    },
+    {
+     "type": "place",
+     "text": "Älmhult"
+    }
+   ],
+   "transition_in": "crossfade",
+   "kling": true,
+   "sfx": "crowd murmur, ribbon snip",
+   "notes_ru": "~9.1 с. Убран год «1958» из промпта (рисует цифры), фасад без вывесок. Kling: движение толпы."
+  },
+  {
+   "id": "28",
+   "kind": "image",
+   "beats": [
+    "p3b02"
+   ],
+   "prompt": "A cozy 1950s coffee corner inside a furniture store, families at small tables with cups of coffee and cinnamon buns, a simple wooden counter, steam rising from the cups, flat 2D editorial illustration, muted warm palette of navy, cream, mustard and terracotta, subtle paper grain, clean shapes, cinematic composition, horizontal 16:9, no text, no logos",
+   "status": "edited",
+   "camera": "drift",
+   "focus_x": 0.5,
+   "focus_y": 0.55,
+   "overlays": [
+    {
+     "type": "date",
+     "text": "1960"
+    }
+   ],
+   "transition_in": "crossfade",
+   "kling": true,
+   "sfx": "cups on saucers, coffee pour",
+   "notes_ru": "~12.2 с (Kling + оверлей). Было: фрикадельки — в 1958 их не было. Теперь кофе с булочками. Kling: пар и люди."
+  },
+  {
+   "id": "55",
+   "kind": "image",
+   "beats": [
+    "p3b02"
+   ],
+   "prompt": "Close-up of a simple white plate of small round meatballs with mashed potatoes, a spoonful of red lingonberry jam and a small jug of cream sauce on a light wooden cafeteria tray, steam rising, a busy blurred store restaurant in the background, plate in the center, flat 2D editorial illustration, muted warm palette of navy, cream, mustard and terracotta, subtle paper grain, clean shapes, cinematic composition, horizontal 16:9, no text, no logos",
+   "status": "new",
+   "camera": "push-in",
+   "focus_x": 0.5,
+   "focus_y": 0.55,
+   "overlays": [],
+   "sfx": "",
+   "transition_in": "cut",
+   "kling": false,
+   "notes_ru": "Фрикадельки — для части 2 и Short 4."
+  },
+  {
+   "id": "48",
+   "kind": "image",
+   "beats": [
+    "p2b22"
+   ],
+   "prompt": "Night street in a 1950s Swedish town, silhouettes of several men in suits and hats standing in the dark across the street, watching a brightly lit furniture showroom window full of affordable chairs, ominous mood, flat 2D editorial illustration, muted warm palette of navy, cream, mustard and terracotta, subtle paper grain, clean shapes, cinematic composition, horizontal 16:9, no text, no logos",
+   "status": "new",
+   "camera": "push-in",
+   "focus_x": 0.3,
+   "focus_y": 0.5,
+   "overlays": [],
+   "transition_in": "cut",
+   "kling": false,
+   "sfx": "low wind, distant footsteps",
+   "notes_ru": "~7 с. Новый кадр-тизер («powerful enemies») в конце части 2."
+  },
+  {
+   "id": "29",
+   "kind": "image",
+   "beats": [
+    "p3b03"
+   ],
+   "prompt": "Angry businessmen in 1950s suits arguing around a meeting table, cigar smoke, flat 2D editorial illustration, muted warm palette of navy, cream, mustard and terracotta, subtle paper grain, clean shapes, cinematic composition, horizontal 16:9, no text, no logos",
+   "status": "unchanged",
+   "camera": "push-in",
+   "focus_x": 0.5,
+   "focus_y": 0.45,
+   "overlays": [
+    {
+     "type": "chapter",
+     "text": "Enemies and a Boycott"
+    }
+   ],
+   "transition_in": "cut",
+   "kling": false,
+   "sfx": "fist on table",
+   "notes_ru": "~7.4 с."
+  },
+  {
+   "id": "49",
+   "kind": "image",
+   "beats": [
+    "p3b04"
+   ],
+   "prompt": "A 1950s exhibition hall in Stockholm with simple wooden furniture stands, plain undecorated walls and stands without any banners, signs or lettering, a uniformed doorman at the entrance blocking the way with his arm raised in front of a slim young man with light-brown side-parted hair, grey wool sweater over a white collared shirt, seen in profile on the left, well-dressed retailers whispering behind the doorman on the right, flat 2D editorial illustration, muted warm palette of navy, cream, mustard and terracotta, subtle paper grain, clean shapes, cinematic composition, horizontal 16:9, no text, no logos",
+   "status": "new",
+   "camera": "pan-right",
+   "focus_x": 0.6,
+   "focus_y": 0.5,
+   "overlays": [
+    {
+     "type": "place",
+     "text": "Stockholm"
+    }
+   ],
+   "transition_in": "cut",
+   "kling": false,
+   "sfx": "echoing hall murmur",
+   "notes_ru": "~9.6 с. Новый кадр: IKEA не пускают на ярмарку. Описание взрослого Ингвара как в 43/45."
+  },
+  {
+   "id": "50",
+   "kind": "image",
+   "beats": [
+    "p3b05"
+   ],
+   "prompt": "Evening at a small forest furniture workshop, a craftsman quietly loading wooden chairs onto a plain unmarked truck, glancing over his shoulder, dim lantern light, flat 2D editorial illustration, muted warm palette of navy, cream, mustard and terracotta, subtle paper grain, clean shapes, cinematic composition, horizontal 16:9, no text, no logos",
+   "status": "new",
+   "camera": "drift",
+   "focus_x": 0.45,
+   "focus_y": 0.5,
+   "overlays": [],
+   "transition_in": "cut",
+   "kling": false,
+   "sfx": "crickets, chair scraping on wood",
+   "notes_ru": "~5.7 с. Новый кадр: поставщики тайно продают «под другими именами»."
+  },
+  {
+   "id": "G06",
+   "kind": "graphic",
+   "beats": [
+    "p3b06"
+   ],
+   "prompt": "",
+   "status": "new",
+   "camera": "static",
+   "focus_x": 0.5,
+   "focus_y": 0.5,
+   "overlays": [
+    {
+     "type": "date",
+     "text": "1961",
+     "detail": "date label=The boycott bites: not enough furniture from Swedish factories"
+    }
+   ],
+   "transition_in": "cut",
+   "kling": false,
+   "sfx": "",
+   "notes_ru": "~6.1 с. Сетка из иконок стульев, на «half are missing» половина гаснет."
+  },
+  {
+   "id": "G07",
+   "kind": "graphic",
+   "beats": [
+    "p3b07"
+   ],
+   "prompt": "",
+   "status": "new",
+   "camera": "static",
+   "focus_x": 0.6,
+   "focus_y": 0.5,
+   "overlays": [
+    {
+     "type": "map",
+     "text": "January 1961",
+     "detail": "map region=europe pins=Almhult,Poland route=Almhult>Poland"
+    }
+   ],
+   "transition_in": "whip",
+   "kling": false,
+   "sfx": "propeller plane passing",
+   "notes_ru": "~9.1 с. Анимированный перелёт Älmhult → Польша."
+  },
+  {
+   "id": "30",
+   "kind": "image",
+   "beats": [
+    "p3b08"
+   ],
+   "prompt": "A 1960s furniture factory in Poland, workers assembling chairs on a production line, flat 2D editorial illustration, muted warm palette of navy, cream, mustard and terracotta, subtle paper grain, clean shapes, cinematic composition, horizontal 16:9, no text, no logos",
+   "status": "unchanged",
+   "camera": "pan-left",
+   "focus_x": 0.35,
+   "focus_y": 0.5,
+   "overlays": [],
+   "transition_in": "cut",
+   "kling": false,
+   "sfx": "factory machinery rhythm",
+   "notes_ru": "~6.1 с."
+  },
+  {
+   "id": "31",
+   "kind": "image",
+   "beats": [
+    "p3b09"
+   ],
+   "prompt": "A Norwegian fjord landscape near a city with a new plain modern store building near the water, 1960s, plain facade without any signs, flat 2D editorial illustration, muted warm palette of navy, cream, mustard and terracotta, subtle paper grain, clean shapes, cinematic composition, horizontal 16:9, no text, no logos",
+   "status": "edited",
+   "camera": "pan-right",
+   "focus_x": 0.65,
+   "focus_y": 0.55,
+   "overlays": [
+    {
+     "type": "chapter",
+     "text": "Going Global"
+    },
+    {
+     "type": "date",
+     "text": "1963"
+    },
+    {
+     "type": "place",
+     "text": "near Oslo, Norway"
+    }
+   ],
+   "transition_in": "crossfade",
+   "kling": false,
+   "sfx": "gulls over water",
+   "notes_ru": "~6.5 с. Добавлен фасад без вывесок."
+  },
+  {
+   "id": "32",
+   "kind": "image",
+   "beats": [
+    "p3b10"
+   ],
+   "prompt": "A Swiss town with snowy Alps behind, families carrying flat boxes to their cars, 1970s, flat 2D editorial illustration, muted warm palette of navy, cream, mustard and terracotta, subtle paper grain, clean shapes, cinematic composition, horizontal 16:9, no text, no logos",
+   "status": "unchanged",
+   "camera": "tilt-up",
+   "focus_x": 0.5,
+   "focus_y": 0.3,
+   "overlays": [
+    {
+     "type": "date",
+     "text": "1973"
+    },
+    {
+     "type": "place",
+     "text": "Switzerland"
+    }
+   ],
+   "transition_in": "crossfade",
+   "kling": false,
+   "sfx": "",
+   "notes_ru": "~3.5 с, первая часть бита: «Switzerland, the first IKEA outside Scandinavia»."
+  },
+  {
+   "id": "G08",
+   "kind": "graphic",
+   "beats": [
+    "p3b10"
+   ],
+   "prompt": "",
+   "status": "new",
+   "camera": "pull-out",
+   "focus_x": 0.5,
+   "focus_y": 0.5,
+   "overlays": [
+    {
+     "type": "map",
+     "text": "Germany — biggest market",
+     "detail": "map region=europe pins=Almhult,Oslo,Spreitenbach,Munich route=Almhult>Oslo>Spreitenbach>Munich"
+    }
+   ],
+   "transition_in": "cut",
+   "kling": false,
+   "sfx": "",
+   "notes_ru": "~4.8 с. Пины загораются по очереди, на «And then, the world» карта отъезжает до мира."
+  },
+  {
+   "id": "33",
+   "kind": "image",
+   "beats": [
+    "p3b11"
+   ],
+   "prompt": "A middle-aged man with short dark-blond hair turning grey, rolled-up white shirtsleeves, sketching a simple tall bookcase with a pencil on a plain paper napkin at a desk, coffee cup, late 1970s office, man on the left, napkin in the center, flat 2D editorial illustration, muted warm palette of navy, cream, mustard and terracotta, subtle paper grain, clean shapes, cinematic composition, horizontal 16:9, no text, no logos",
+   "status": "edited",
+   "camera": "push-in",
+   "focus_x": 0.5,
+   "focus_y": 0.6,
+   "overlays": [
+    {
+     "type": "lower-third",
+     "text": "Gillis Lundgren"
+    }
+   ],
+   "transition_in": "crossfade",
+   "kling": false,
+   "sfx": "pencil sketching on paper",
+   "notes_ru": "~11.7 с. Убран год «1979», «designer» заменён на постаревшего Гиллиса (то же описание, только седеет). Наезд на салфетку."
+  },
+  {
+   "id": "34",
+   "kind": "image",
+   "beats": [
+    "p3b12"
+   ],
+   "prompt": "A simple tall bookcase in light oak veneer full of books with plain spines and plants in a cozy modern living room, bookcase in the center, flat 2D editorial illustration, muted warm palette of navy, cream, mustard and terracotta, subtle paper grain, clean shapes, cinematic composition, horizontal 16:9, no text, no logos",
+   "status": "edited",
+   "camera": "pull-out",
+   "focus_x": 0.5,
+   "focus_y": 0.5,
+   "overlays": [
+    {
+     "type": "number",
+     "text": "120M+",
+     "detail": "number value=120M+ label=BILLY bookcases sold, per IKEA"
+    }
+   ],
+   "transition_in": "cut",
+   "kling": false,
+   "sfx": "",
+   "notes_ru": "~10 с. Было: белый шкаф. Теперь светлый дуб (оригинальный Billy), на корешках книг нет текста."
+  },
+  {
+   "id": "36",
+   "kind": "image",
+   "beats": [
+    "p3b13"
+   ],
+   "prompt": "Many shoppers walking along a winding maze-like path through a large furniture showroom, the route marked only by a plain painted line on the floor, furnished room-set displays on both sides with no signs, no price tags and no labels, high angle view, flat 2D editorial illustration, muted warm palette of navy, cream, mustard and terracotta, subtle paper grain, clean shapes, cinematic composition, horizontal 16:9, no text, no logos",
+   "status": "edited",
+   "camera": "drift",
+   "focus_x": 0.5,
+   "focus_y": 0.5,
+   "overlays": [
+    {
+     "type": "number",
+     "text": "~500",
+     "detail": "number value=~500 label=big IKEA stores · 900M+ visits a year"
+    }
+   ],
+   "transition_in": "crossfade",
+   "kling": false,
+   "sfx": "store crowd murmur",
+   "notes_ru": "~9.6 с. Стрелки на полу (знаки) заменены линией. Цифры перед загрузкой сверить с отчётом за FY26."
+  },
+  {
+   "id": "37",
+   "kind": "image",
+   "beats": [
+    "p3b14",
+    "p3b15"
+   ],
+   "prompt": "A grim grey 1980s factory hall with barred windows, workers at machines seen from a distance with no faces visible, a guard watching from a doorway, East Germany, cold desaturated mood, flat 2D editorial illustration, muted desaturated version of the navy, cream, mustard and terracotta palette, subtle paper grain, clean shapes, cinematic composition, horizontal 16:9, no text, no logos",
+   "status": "edited",
+   "camera": "push-in",
+   "focus_x": 0.5,
+   "focus_y": 0.4,
+   "overlays": [
+    {
+     "type": "chapter",
+     "text": "The Dark Side"
+    },
+    {
+     "type": "date",
+     "text": "1970s–1980s"
+    },
+    {
+     "type": "place",
+     "text": "East Germany"
+    }
+   ],
+   "transition_in": "dip-to-black",
+   "kling": false,
+   "sfx": "distant machine hum",
+   "notes_ru": "~10.5 с. Десатурированный вариант хвоста сохранён. Ни лиц крупно, ни символики."
+  },
+  {
+   "id": "51",
+   "kind": "image",
+   "beats": [
+    "p3b16"
+   ],
+   "prompt": "An empty, silent old factory hall with abandoned workbenches and machines, cold grey light falling through tall barred windows onto drifting dust, no people, sombre mood, flat 2D editorial illustration, muted warm palette of navy, cream, mustard and terracotta, subtle paper grain, clean shapes, cinematic composition, horizontal 16:9, no text, no logos",
+   "status": "new",
+   "camera": "pull-out",
+   "focus_x": 0.5,
+   "focus_y": 0.5,
+   "overlays": [
+    {
+     "type": "date",
+     "text": "2012"
+    }
+   ],
+   "transition_in": "crossfade",
+   "kling": false,
+   "sfx": "",
+   "notes_ru": "~13.4 с: держится дольше 12 с за счёт оверлеев 2012 и €6M. Новый нейтральный кадр: тот же цех, но пустой (признание задним числом)."
+  },
+  {
+   "id": "G10",
+   "kind": "graphic",
+   "beats": [
+    "p3b17"
+   ],
+   "prompt": "",
+   "status": "new",
+   "camera": "static",
+   "overlays": [
+    {
+     "type": "number",
+     "text": "€6M",
+     "detail": "number value=€6M label=pledged by IKEA Germany to a fund for victims of the East German regime, 2024"
+    }
+   ],
+   "sfx": "",
+   "transition_in": "cut",
+   "kling": false,
+   "notes_ru": ""
+  },
+  {
+   "id": "38",
+   "kind": "image",
+   "beats": [
+    "p3b18"
+   ],
+   "prompt": "A forest clearing with freshly cut tree stumps and stacked logs, overcast, flat 2D editorial illustration, muted warm palette of navy, cream, mustard and terracotta, subtle paper grain, clean shapes, cinematic composition, horizontal 16:9, no text, no logos",
+   "status": "unchanged",
+   "camera": "pan-left",
+   "focus_x": 0.35,
+   "focus_y": 0.55,
+   "overlays": [
+    {
+     "type": "place",
+     "text": "Ukraine · Siberia"
+    }
+   ],
+   "transition_in": "cut",
+   "kling": false,
+   "sfx": "distant chainsaw, then silence",
+   "notes_ru": "~10.4 с."
+  },
+  {
+   "id": "52",
+   "kind": "image",
+   "beats": [
+    "p3b19"
+   ],
+   "prompt": "A closed old archive folder and a stack of yellowed blank papers on a dark wooden desk under a single desk lamp, deep shadows, sombre and neutral mood, flat 2D editorial illustration, muted warm palette of navy, cream, mustard and terracotta, subtle paper grain, clean shapes, cinematic composition, horizontal 16:9, no text, no logos",
+   "status": "new",
+   "camera": "push-in",
+   "focus_x": 0.5,
+   "focus_y": 0.55,
+   "overlays": [],
+   "transition_in": "cut",
+   "kling": false,
+   "sfx": "",
+   "notes_ru": "~9.6 с. Новый нейтральный кадр о прошлом основателя: архивная папка, НИКАКОЙ символики и формы."
+  },
+  {
+   "id": "G09",
+   "kind": "graphic",
+   "beats": [
+    "p3b20"
+   ],
+   "prompt": "",
+   "status": "new",
+   "camera": "push-in",
+   "overlays": [
+    {
+     "type": "date",
+     "text": "1994",
+     "detail": "date label=A letter to IKEA staff"
+    }
+   ],
+   "sfx": "",
+   "transition_in": "cut",
+   "kling": false,
+   "notes_ru": "Карточка вместо кадра 53."
+  },
+  {
+   "id": "39",
+   "kind": "image",
+   "beats": [
+    "p3b21"
+   ],
+   "prompt": "An elderly man with thin grey hair in a modest brown jacket seen from behind, walking toward an old boxy dark-blue sedan from the 1980s parked in a quiet street, the car seen from the side, a plain car with no badges, no grille emblem and no license plate, flat 2D editorial illustration, muted warm palette of navy, cream, mustard and terracotta, subtle paper grain, clean shapes, cinematic composition, horizontal 16:9, no text, no logos",
+   "status": "edited",
+   "camera": "drift",
+   "focus_x": 0.55,
+   "focus_y": 0.55,
+   "overlays": [
+    {
+     "type": "chapter",
+     "text": "The Lesson"
+    },
+    {
+     "type": "lower-third",
+     "text": "Ingvar Kamprad",
+     "detail": "died 2018, aged 91"
+    }
+   ],
+   "transition_in": "dip-to-black",
+   "kling": false,
+   "sfx": "footsteps on pavement, car door",
+   "notes_ru": "~11.7 с. Пожилой Ингвар — единое описание (как в 53), машина «old boxy Swedish sedan» без марки и номеров."
+  },
+  {
+   "id": "35",
+   "kind": "image",
+   "beats": [
+    "p3b22"
+   ],
+   "prompt": "A huge warehouse-style furniture store building at dusk with a plain facade without any signs, a full parking lot and glowing windows, flat 2D editorial illustration, muted warm palette of navy, cream, mustard and terracotta, subtle paper grain, clean shapes, cinematic composition, horizontal 16:9, no text, no logos",
+   "status": "edited",
+   "camera": "pull-out",
+   "focus_x": 0.5,
+   "focus_y": 0.5,
+   "overlays": [],
+   "transition_in": "cut",
+   "kling": true,
+   "sfx": "evening traffic, car doors",
+   "notes_ru": "~7.8 с. Ответ на вопрос из хука («build all this»). Фасад без вывесок. Kling: машины, огни."
+  },
+  {
+   "id": "40",
+   "kind": "image",
+   "beats": [
+    "p3b23"
+   ],
+   "prompt": "Symbolic still life on a wooden table, three objects in a row from left to right: a small plain matchbox, a tiny wooden doll-house armchair, and a single slim tapered wooden table leg, warm side light, long soft shadows, flat 2D editorial illustration, muted warm palette of navy, cream, mustard and terracotta, subtle paper grain, clean shapes, cinematic composition, horizontal 16:9, no text, no logos",
+   "status": "edited",
+   "camera": "pan-right",
+   "focus_x": 0.75,
+   "focus_y": 0.55,
+   "overlays": [],
+   "transition_in": "cut",
+   "kling": false,
+   "sfx": "",
+   "notes_ru": "~11.3 с. Панорама слева направо в такт перечислению: спички → коробка → ножка."
+  },
+  {
+   "id": "26",
+   "kind": "image",
+   "beats": [
+    "p3b24",
+    "p3b25"
+   ],
+   "prompt": "A happy couple tying a flat cardboard box to the roof of their small car, flat 2D editorial illustration, muted warm palette of navy, cream, mustard and terracotta, subtle paper grain, clean shapes, cinematic composition, horizontal 16:9, no text, no logos",
+   "status": "unchanged",
+   "camera": "pull-out",
+   "focus_x": 0.5,
+   "focus_y": 0.45,
+   "overlays": [],
+   "transition_in": "cut",
+   "kling": false,
+   "sfx": "rope cinched, car roof tap",
+   "notes_ru": "~11.3 с. Перенесён в финал: «cheaper, simpler way» — покупатель сам везёт коробку домой."
+  },
+  {
+   "id": "54",
+   "kind": "image",
+   "beats": [
+    "p3b26"
+   ],
+   "prompt": "Illustrated portrait of the woman from the reference photo, same face, blue eyes, bob haircut, burgundy coat, waist-up, standing in the same cozy study with bookshelves of plain book spines and a warm lamp, giving a small friendly wave to the viewer, positioned left of center with empty space on the right, flat 2D editorial illustration, muted warm palette of navy, cream, mustard and terracotta, subtle paper grain, clean shapes, cinematic composition, horizontal 16:9, no text, no logos",
+   "status": "new",
+   "camera": "static",
+   "focus_x": 0.35,
+   "focus_y": 0.4,
+   "overlays": [],
+   "transition_in": "crossfade",
+   "kling": false,
+   "sfx": "",
+   "notes_ru": "~7 с + конечная заставка. ПРИЛОЖИТЬ референс-фото Mila. Справа свободное место под элементы конечной заставки (подписка, следующее видео)."
+  }
+ ],
+ "shorts": [
+  {
+   "id": "short1",
+   "title_ru": "Стол без ножек",
+   "beats": [
+    {
+     "id": "s1b01",
+     "text": "This is why IKEA sells furniture in flat boxes."
+    },
+    {
+     "id": "s1b02",
+     "text": "In the mid-fifties, IKEA employee Gillis Lundgren couldn't fit a little table into his car for a photo shoot."
+    },
+    {
+     "id": "s1b03",
+     "text": "So he took the legs off."
+    },
+    {
+     "id": "s1b04",
+     "text": "IKEA didn't invent flat-pack... but that tiny fix became its whole business model."
+    },
+    {
+     "id": "s1b05",
+     "text": "Flat furniture is cheaper to ship, cheaper to store... and you carry it home yourself."
+    },
+    {
+     "id": "s1b06",
+     "text": "Why pay to ship air?"
+    },
+    {
+     "id": "s1b07",
+     "text": "Follow for more stories of how they built it. And remember..."
+    }
+   ],
+   "cuts": [
+    {
+     "shot": "01",
+     "beats": [
+      "s1b01"
+     ],
+     "crop_x": 0.68
+    },
+    {
+     "shot": "22",
+     "beats": [
+      "s1b02"
+     ],
+     "crop_x": 0.35
+    },
+    {
+     "shot": "02",
+     "beats": [
+      "s1b03"
+     ],
+     "crop_x": 0.5
+    },
+    {
+     "shot": "46",
+     "beats": [
+      "s1b04"
+     ],
+     "crop_x": 0.4
+    },
+    {
+     "shot": "47",
+     "beats": [
+      "s1b04"
+     ],
+     "crop_x": 0.5
+    },
+    {
+     "shot": "25b",
+     "beats": [
+      "s1b05"
+     ],
+     "crop_x": 0.6
+    },
+    {
+     "shot": "26",
+     "beats": [
+      "s1b05"
+     ],
+     "crop_x": 0.5
+    },
+    {
+     "shot": "25a",
+     "beats": [
+      "s1b06"
+     ],
+     "crop_x": 0.6
+    },
+    {
+     "shot": "03",
+     "beats": [
+      "s1b07"
+     ],
+     "crop_x": 0.5
+    }
+   ]
+  },
+  {
+   "id": "short2",
+   "title_ru": "Расшифровка названия",
+   "beats": [
+    {
+     "id": "s2b01",
+     "text": "IKEA isn't a made-up word. It's a home address."
+    },
+    {
+     "id": "s2b02",
+     "text": "I and K... Ingvar Kamprad, the founder. E... Elmtaryd, the farm where he grew up. A... Agunnaryd, the nearby village."
+    },
+    {
+     "id": "s2b03",
+     "text": "He registered the company in 1943, at just seventeen."
+    },
+    {
+     "id": "s2b04",
+     "text": "He was still a minor... so first he cycled to his guardian for a signature."
+    },
+    {
+     "id": "s2b05",
+     "text": "The man couldn't see why a boy needed a company... but he signed."
+    },
+    {
+     "id": "s2b06",
+     "text": "Follow for more stories of how they built it. Because now you know..."
+    }
+   ],
+   "cuts": [
+    {
+     "shot": "G03",
+     "beats": [
+      "s2b01",
+      "s2b02"
+     ],
+     "crop_x": 0.5
+    },
+    {
+     "shot": "G02",
+     "beats": [
+      "s2b03"
+     ],
+     "crop_x": 0.5
+    },
+    {
+     "shot": "10",
+     "beats": [
+      "s2b04"
+     ],
+     "crop_x": 0.5
+    },
+    {
+     "shot": "12",
+     "beats": [
+      "s2b05"
+     ],
+     "crop_x": 0.5
+    },
+    {
+     "shot": "04",
+     "beats": [
+      "s2b06"
+     ],
+     "crop_x": 0.3
+    }
+   ]
+  },
+  {
+   "id": "short3",
+   "title_ru": "Бойкот, который помог",
+   "beats": [
+    {
+     "id": "s3b01",
+     "text": "Swedish furniture sellers once tried to destroy IKEA."
+    },
+    {
+     "id": "s3b02",
+     "text": "In the nineteen-fifties, they were furious about its low prices. They got IKEA banned from a Stockholm trade fair..."
+    },
+    {
+     "id": "s3b03",
+     "text": "and warned suppliers: sell to IKEA, and we stop buying from you."
+    },
+    {
+     "id": "s3b04",
+     "text": "Some suppliers sold to it anyway, under other names."
+    },
+    {
+     "id": "s3b05",
+     "text": "Then, in 1961, Ingvar went to communist Poland... where furniture was even cheaper to make."
+    },
+    {
+     "id": "s3b06",
+     "text": "The boycott meant to kill IKEA... made it stronger."
+    },
+    {
+     "id": "s3b07",
+     "text": "Follow for more stories of how they built it. That's what happened when..."
+    }
+   ],
+   "cuts": [
+    {
+     "shot": "48",
+     "beats": [
+      "s3b01"
+     ],
+     "crop_x": 0.3
+    },
+    {
+     "shot": "29",
+     "beats": [
+      "s3b02"
+     ],
+     "crop_x": 0.5
+    },
+    {
+     "shot": "49",
+     "beats": [
+      "s3b02",
+      "s3b03"
+     ],
+     "crop_x": 0.6
+    },
+    {
+     "shot": "50",
+     "beats": [
+      "s3b04"
+     ],
+     "crop_x": 0.45
+    },
+    {
+     "shot": "30",
+     "beats": [
+      "s3b05"
+     ],
+     "crop_x": 0.4
+    },
+    {
+     "shot": "27",
+     "beats": [
+      "s3b06"
+     ],
+     "crop_x": 0.5
+    },
+    {
+     "shot": "35",
+     "beats": [
+      "s3b07"
+     ],
+     "crop_x": 0.5
+    }
+   ]
+  },
+  {
+   "id": "short4",
+   "title_ru": "Лабиринт и фрикадельки",
+   "beats": [
+    {
+     "id": "s4b01",
+     "text": "Why does IKEA lead you through a maze... then feed you meatballs?"
+    },
+    {
+     "id": "s4b02",
+     "text": "First, the food. Families drove from all over Sweden to the very first store... and they arrived hungry."
+    },
+    {
+     "id": "s4b03",
+     "text": "Ingvar figured a hungry customer is hard to do business with. So in 1960, IKEA opened a restaurant."
+    },
+    {
+     "id": "s4b04",
+     "text": "The meatballs came in 1985. Now? Over a billion a year."
+    },
+    {
+     "id": "s4b05",
+     "text": "And the maze? It began in 1965, at a round store near Stockholm inspired by New York's Guggenheim Museum. It walks you past every room..."
+    },
+    {
+     "id": "s4b06",
+     "text": "Follow for more stories of how they built it. Next time you're lost in there..."
+    }
+   ],
+   "cuts": [
+    {
+     "shot": "36",
+     "beats": [
+      "s4b01"
+     ],
+     "crop_x": 0.5
+    },
+    {
+     "shot": "27",
+     "beats": [
+      "s4b02"
+     ],
+     "crop_x": 0.5
+    },
+    {
+     "shot": "28",
+     "beats": [
+      "s4b03"
+     ],
+     "crop_x": 0.5
+    },
+    {
+     "shot": "55",
+     "beats": [
+      "s4b04"
+     ],
+     "crop_x": 0.5
+    },
+    {
+     "shot": "36",
+     "beats": [
+      "s4b05"
+     ],
+     "crop_x": 0.75
+    },
+    {
+     "shot": "20",
+     "beats": [
+      "s4b06"
+     ],
+     "crop_x": 0.5
+    }
+   ]
+  }
+ ],
+ "music_cues": [
+  {
+   "at_beat": "p1b01",
+   "mood": "curious, light tension (pizzicato, soft pulse)",
+   "note_ru": "Хук: интрига, без громкой мелодии."
+  },
+  {
+   "at_beat": "p1b05",
+   "mood": "warm channel theme sting",
+   "note_ru": "Короткая заставка-подхват под представление Mila."
+  },
+  {
+   "at_beat": "p1b06",
+   "mood": "nostalgic, gentle acoustic folk",
+   "note_ru": "Детство на ферме, Småland."
+  },
+  {
+   "at_beat": "p1b20",
+   "mood": "suspended, mysterious sting",
+   "note_ru": "Тизер «5 лет без мебели», затем затемнение."
+  },
+  {
+   "at_beat": "p2b01",
+   "mood": "playful, light momentum",
+   "note_ru": "Торговля по почте, молоковоз."
+  },
+  {
+   "at_beat": "p2b08",
+   "mood": "tense, low strings",
+   "note_ru": "Ценовая война и падение качества."
+  },
+  {
+   "at_beat": "p2b12",
+   "mood": "hopeful, rising",
+   "note_ru": "Шоурум и возвращение доверия."
+  },
+  {
+   "at_beat": "p2b15",
+   "mood": "curious build-up to a eureka moment",
+   "note_ru": "Плоская упаковка; кульминация на p2b19–p2b20."
+  },
+  {
+   "at_beat": "p2b22",
+   "mood": "ominous sting",
+   "note_ru": "Тизер «враги», затемнение."
+  },
+  {
+   "at_beat": "p3b03",
+   "mood": "conflict, driving percussion",
+   "note_ru": "Бойкот, ярмарка, поставщики."
+  },
+  {
+   "at_beat": "p3b08",
+   "mood": "triumphant turn",
+   "note_ru": "Бойкот сделал IKEA дешевле."
+  },
+  {
+   "at_beat": "p3b09",
+   "mood": "expansive, global, uplifting",
+   "note_ru": "Выход в мир, Billy, масштаб."
+  },
+  {
+   "at_beat": "p3b14",
+   "mood": "somber, minimal piano and drone",
+   "note_ru": "Тёмная сторона: тихо, без драматизации."
+  },
+  {
+   "at_beat": "p3b21",
+   "mood": "reflective, warm",
+   "note_ru": "Смерть Кампрада, урок."
+  },
+  {
+   "at_beat": "p3b24",
+   "mood": "inspirational swell",
+   "note_ru": "Финальный вывод."
+  },
+  {
+   "at_beat": "p3b26",
+   "mood": "channel theme outro",
+   "note_ru": "Конечная заставка."
+  }
+ ],
+ "packaging": {
+  "titles": [
+   "How a Table Without Legs Built IKEA's $50B-a-Year Empire",
+   "IKEA: The Farm Boy Who Changed How the World Buys Furniture",
+   "Why IKEA Sells Furniture in Flat Boxes (The Story Behind It)"
+  ],
+  "thumbnail_text": "IKEA'S $50B ACCIDENT",
+  "thumbnail_prompt": "One strong subject: a small leaf-shaped wooden coffee table taken apart, its leaf-shaped tabletop lying flat with its three slim tapered legs laid neatly beside it and a single screwdriver, placed in the right third of the frame, lit by one dramatic warm spotlight from above with a crisp hard shadow, glowing cream and mustard wood against a deep dark navy background, strong rim light, very high contrast, the left half of the frame completely empty dark navy for headline space, simple bold shapes readable at small size, flat 2D editorial illustration, muted warm palette of navy, cream, mustard and terracotta, subtle paper grain, clean shapes, cinematic composition, horizontal 16:9, no text, no logos",
+  "description_body": "In the mid-1950s, an IKEA employee couldn't fit a little table into his car, so he took the legs off. That small moment helped turn a farm boy's mail-order business into the world's biggest furniture brand.\n\nFrom selling matches as a five-year-old in Småland to a milk lorry that delivered his first parcels, a price war, a boycott that backfired and the Billy bookcase, this is how IKEA was built. We also cover the chapters IKEA has had to answer for: East German prison labour, wood sourcing and its founder's past.\n\nSources:\nIKEA Museum, The story of IKEA - ikeamuseum.com/en/explore/the-story-of-ikea\nIKEA, Our heritage - ikea.com/us/en/this-is-ikea/about-us/our-heritage-pubde78e100\nIKEA retail sales FY25 - ikea.com/global/en/newsroom/corporate/ikea-retail-sales-fy25-251016\nInter IKEA Group FY25 financial summary - inter.ikea.com/en/performance\nBritannica, IKEA - britannica.com/money/IKEA\nIKEA forced-labour report, 2012 - csmonitor.com (AP)\nIKEA pledge to SED victims, 2024 - thelocal.de\nEarthsight, Flatpacked Forests (2020) and IKEA's House of Horrors (2021) - earthsight.org.uk\nNPR, IKEA founder Ingvar Kamprad dies at 91 (2018) - npr.org\n\nVisuals in this video are AI-generated illustrations. Narration is AI-assisted.\n\n#IKEA #BusinessHistory #HowTheyBuiltIt"
+ },
+ "sources": [
+  "IKEA Museum — The story of IKEA: ikeamuseum.com/en/explore/the-story-of-ikea",
+  "IKEA — Our heritage: ikea.com/us/en/this-is-ikea/about-us/our-heritage-pubde78e100",
+  "IKEA newsroom — IKEA retail sales FY25 (16.10.2025): ikea.com/global/en/newsroom/corporate/ikea-retail-sales-fy25-251016",
+  "Inter IKEA Group — Financial summary FY25: inter.ikea.com",
+  "IKEA Museum — LÖVET coffee table: ikeamuseum.com/en/explore/product-stories/lovet-coffee-table-1956",
+  "IKEA Museum — Gillis Lundgren: ikeamuseum.com/en/explore/designer-portraits/gillis-lundgren",
+  "Britannica — IKEA: britannica.com/money/IKEA",
+  "AP / Christian Science Monitor — IKEA forced-labour report, 2012",
+  "The Local Germany — IKEA pledge to SED victims' fund, 2024",
+  "Earthsight — Flatpacked Forests (2020), IKEA's House of Horrors (2021)",
+  "NPR — IKEA founder Ingvar Kamprad dies at 91 (2018)"
+ ],
+ "package_ru": {
+  "filename": "IKEA_production_v2.docx",
+  "title": "IKEA — пакет производства v2 (ролик #1)",
+  "byline": "7 окт. 2026 · @Антон · v2 полностью заменяет v1",
+  "changes": [
+   "**Текст озвучки переписан** на 1274 слов (≈ 9,2 мин вместо ~6). Длина больше 8 минут, значит YouTube сможет ставить рекламу в середину ролика. Все факты сверены с источниками, ошибки v1 исправлены.",
+   "**Озвучка — 7 файлов**: part1, part2, part3 + short1…short4. В v1 инструкции противоречили друг другу: «один mp3 одним куском» и «три файла part1–3».",
+   "**Картинок 53 + фон обложки**: кадры 01–40 остаются под своими номерами, 25 = две картинки (25a и 25b), новые кадры — 41, 42, 43, 44, 45, 46, 47, 55, 48, 49, 50, 51, 52, 54. Помечены {{НОВЫЙ}} и {{ИЗМЕНЁН}}.",
+   "**Shorts переписаны**: каждый 28–34 секунды, с цепляющей первой фразой. Short 4 теперь действительно про лабиринт и фрикадельки.",
+   "**Из промптов убраны** годы, бумаги с текстом и вывески, из-за которых модель рисует буквы. Внешность героев описана одинаково во всех кадрах.",
+   "**Чек-лист и имена файлов** приведены в порядок, обложка и Shorts в него добавлены."
+  ],
+  "intro": "Твоя часть — 6 шагов, около 3 часов. Монтаж, движение камеры, карты, даты и цифры, титры, музыка, текст на обложке и вертикальные Shorts собираются у меня.",
+  "steps": [
+   "**Озвучка — 7 файлов.** Каждую часть из «Текста озвучки» вставляй в Syntx целиком и отдельно: part1, part2, part3. Затем 4 Shorts: short1…short4. Если сервис режет по длине — part1a, part1b и т.д.",
+   "**Проба стиля — кадры 01 и 05** (05 — с фото Mila). Пришли мне. Если стиль и лицо нравятся — генерируй остальные.",
+   "**Остальные кадры — всего 53 картинок** по списку ниже, формат 16:9. Имя файла = номер кадра: 07.png, 25a.png, 41.png. Неудачный кадр просто перегенерируй, сверять каждый со мной не нужно.",
+   "**Фон обложки** — промпт «thumbnail» в конце списка, файл thumbnail.png.",
+   "**Kling (по желанию)** — 7 кадров, картинка → видео 5 сек. Имя файла = номер кадра: 10.mp4.",
+   "**Отправка** — всё одной папкой: 7 mp3 + 53 картинок + thumbnail.png (+ клипы Kling)."
+  ],
+  "after": "Если в кадре случайно появились буквы, текст или логотип — перегенерируй. Даты, названия и цифры на экран добавляются при монтаже.",
+  "checklist": [
+   "Озвучка: part1, part2, part3",
+   "Озвучка Shorts: short1, short2, short3, short4",
+   "Кадры 01 и 05 (проба стиля и лица) — одобрены",
+   "Остальные кадры — 53 шт. всего, включая 25a и 25b",
+   "Фон обложки — thumbnail.png",
+   "Kling-клипы (по желанию)",
+   "Музыка: 1 трек из YouTube Audio Library (жанр Cinematic, настроение Calm/Inspirational) — music.mp3",
+   "Всё отправлено одной папкой"
+  ],
+  "naming": [
+   [
+    "Озвучка, 3 части",
+    "part1.mp3, part2.mp3, part3.mp3"
+   ],
+   [
+    "Озвучка Shorts",
+    "short1.mp3 … short4.mp3"
+   ],
+   [
+    "Кадры",
+    "01.png … 40.png, 25a.png, 25b.png, 41.png, 42.png, 43.png, 44.png, 45.png, 46.png, 47.png, 55.png, 48.png, 49.png, 50.png, 51.png, 52.png, 54.png"
+   ],
+   [
+    "Фон обложки",
+    "thumbnail.png"
+   ],
+   [
+    "Kling",
+    "<номер кадра>.mp4, например 10.mp4"
+   ],
+   [
+    "Музыка",
+    "music.mp3"
+   ]
+  ],
+  "settings": [
+   [
+    "Модель картинок",
+    "Nano Banana (или любая, где стиль держится)"
+   ],
+   [
+    "Формат",
+    "16:9, горизонтальный"
+   ],
+   [
+    "Голос",
+    "тот же женский, что ты выбрал; спокойный, английский"
+   ],
+   [
+    "Stability",
+    "45–50"
+   ],
+   [
+    "Similarity",
+    "75"
+   ],
+   [
+    "Style",
+    "15–20"
+   ],
+   [
+    "Speed",
+    "0,95–1,0"
+   ]
+  ],
+  "style_notes": [
+   "**Герои описаны одинаково во всех кадрах.** Описание внешности не меняй, иначе Ингвар и Гиллис будут в каждом кадре разными людьми.",
+   "**Кадр 37** — единственный с приглушённой серой палитрой. Это намеренно, кадр про тёмную сторону."
+  ],
+  "voice_intro": "Три части, всего {words} слов ≈ {minutes} мин при скорости 0,95–1,0. Копируй каждую часть целиком: меток нет, паузы сделаны многоточиями.",
+  "prompts_intro": "Один промпт = одна картинка 16:9. {{НОВЫЙ}} — такого кадра не было в v1. {{ИЗМЕНЁН}} — промпт поправлен: если этот кадр уже сделан по v1, перегенерируй. {{Kling}} — кадр, который стоит оживить. Кадр 05 — единственный, к которому нужно приложить фото Mila.",
+  "thumbnail_note": "Текст на обложку добавлю я. Слева на фоне должно остаться пустое тёмное место.",
+  "kling_intro": "По желанию: картинка → видео 5 секунд, кадры {ids}. Промпт для всех:",
+  "shorts_intro": "Каждый Short — отдельная озвучка 28–34 секунды тем же голосом. Новые картинки не нужны: кадры из списка переводятся в вертикаль, субтитры по словам добавляются автоматически.",
+  "upload_checklist": [
+   "«Altered or synthetic content» → Yes",
+   "Аудитория: «Не для детей»",
+   "Язык видео: English",
+   "Плейлист: Company Stories",
+   "Субтитры: загрузить captions.srt (English)",
+   "Главы: уже в описании (description.txt)",
+   "Конечная заставка: видео + кнопка подписки. Последние 12 секунд ролика — пустой фон под них"
+  ],
+  "facts_note": "Каждое утверждение сценария сверено с первоисточниками: IKEA Museum, ikea.com, отчёты Inter IKEA Group за FY25, Britannica, крупные СМИ. Полный разбор лежит в репозитории, файл episodes/01-ikea/FACTCHECK.md. Главные источники:"
+ }
+}

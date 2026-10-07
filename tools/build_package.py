@@ -143,10 +143,14 @@ def build(ep_dir):
     ep = json.loads((ep_dir / "episode.json").read_text())
     pk = ep.get("package_ru", {})
     tail = ep.get("style_tail", "")
-    images = [s for s in ep["shots"] if s.get("kind") == "image"]
+    seen, images = set(), []
+    for s in ep["shots"]:
+        if s.get("kind") == "image" and not s.get("reuse") and s["id"] not in seen:
+            seen.add(s["id"])
+            images.append(s)
     new = [s["id"] for s in images if s.get("status") == "new"]
     edited = [s["id"] for s in images if s.get("status") == "edited"]
-    kling = [s["id"] for s in ep["shots"] if s.get("kling")]
+    kling = list(dict.fromkeys(s["id"] for s in ep["shots"] if s.get("kling")))
     main_words = sum(words(b["text"]) for p in ep["parts"] for b in p["beats"])
 
     D = Doc()
@@ -176,7 +180,7 @@ def build(ep_dir):
         D.p(line)
 
     D.h2("Текст озвучки")
-    D.p(pk.get("voice_intro", "").format(minutes=round(main_words / WPS / 60, 1), words=main_words))
+    D.p(pk.get("voice_intro", "").format(minutes=str(round(main_words / WPS / 60, 1)).replace(".", ","), words=main_words))
     for part in ep["parts"]:
         text = "\n\n".join(b["text"] for b in part["beats"])
         D.p(f"**{part['title_ru']}** → файл {{{{{part['id']}.mp3}}}} · {words(text)} слов · ≈ {mmss(words(text) / WPS)}")

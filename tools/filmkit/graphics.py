@@ -440,7 +440,7 @@ def build_overlays(overlays, W, H, dur, ctx):
 class GraphicCard:
     """Full-screen editor graphic: map, big number, date, quote or chapter."""
 
-    PRIORITY = ["map", "number", "date", "quote", "chapter", "title"]
+    PRIORITY = ["map", "acronym", "number", "date", "quote", "chapter", "title"]
 
     def __init__(self, shot, W, H, dur, ctx):
         self.W, self.H, self.dur, self.s = W, H, dur, H / 1080
@@ -467,11 +467,34 @@ class GraphicCard:
             img = self.bg.astype(np.float32)
             if self.kind in ("number", "date"):
                 img = self._big(img, t)
+            elif self.kind == "acronym":
+                img = self._acronym(img, t)
             else:
                 img = self.ov.apply(img, t)
         for ov in self.extra:
             img = ov.apply(img, t)
         return img
+
+    def _acronym(self, img, t):
+        """Letters land one by one, each with the word it stands for."""
+        s = self.s
+        pairs = [(k, v) for k, v in self.d.items() if k != "_"]
+        n = len(pairs)
+        big, small = font("serif-black", 300 * s), font("sans-semibold", 34 * s)
+        step = 340 * s
+        x0 = self.W / 2 - step * (n - 1) / 2
+        c = Image.new("RGBA", (self.W, self.H))
+        d = ImageDraw.Draw(c)
+        lag = max(0.6, min(1.4, (self.dur - 1.5) / max(n, 1)))
+        for i, (letter, word) in enumerate(pairs):
+            a = ease_out((t - 0.3 - i * lag) / 0.5)
+            if a <= 0:
+                continue
+            x = x0 + i * step
+            col = tuple(int(v) for v in style.CREAM) + (int(255 * a),)
+            d.text((x, self.H / 2 + 40 * s - (1 - a) * 30 * s), letter, font=big, fill=col, anchor="ms")
+            d.text((x, self.H / 2 + 110 * s), word.upper(), font=small, fill=style.MUSTARD + (int(255 * a),), anchor="ma")
+        return Layer(c).over(img, 1.0)
 
     def _big(self, img, t):
         s = self.s

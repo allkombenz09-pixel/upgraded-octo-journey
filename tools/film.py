@@ -42,12 +42,12 @@ def first_audio(folder, stem):
 
 def status(ep_dir, ep):
     frames, audio = ep_dir / "frames", ep_dir / "audio"
-    imgs = [s["id"] for s in ep["shots"] if s.get("kind") == "image"]
+    imgs = list(dict.fromkeys(s["id"] for s in ep["shots"] if s.get("kind") == "image"))
     missing = [i for i in imgs if not motion.find_asset(frames, i, motion.IMAGE_EXTS + motion.VIDEO_EXTS)]
     print(f"images: {len(imgs) - len(missing)}/{len(imgs)} ready")
     if missing:
         print("  missing:", " ".join(missing))
-    kling = [s["id"] for s in ep["shots"] if s.get("kling")]
+    kling = list(dict.fromkeys(s["id"] for s in ep["shots"] if s.get("kling")))
     print("kling clips:", " ".join(f"{k}{'✓' if motion.find_asset(frames, k, motion.VIDEO_EXTS) else '·'}" for k in kling))
     print("thumbnail bg:", "✓" if motion.find_asset(frames, "thumbnail", motion.IMAGE_EXTS) else "missing")
     for stem in [p["id"] for p in ep["parts"]] + [s["id"] for s in ep["shorts"]]:
