@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# heavy production media stays out of git
+episodes/*/frames/
+episodes/*/audio/
+episodes/*/music/
+episodes/*/out/
